@@ -49,16 +49,16 @@
 ## 📸 Screenshots
 
 ### Login Page
-> Clean dark UI with JWT authentication
+![Login Page](./screenshots/Screenshot%202026-04-14%20163325.png)
 
 ### Dashboard
-> Stats overview, interview history, and one-click interview start
+![Dashboard](./screenshots/Screenshot%202026-04-14%20164221.png)
 
 ### Interview Page
-> Real-time timer, question navigation dots, progress bar
+![Interview Page](./screenshots/Screenshot%202026-04-14%20164230.png)
 
 ### Results Page
-> Animated score ring, AI feedback, strengths & improvements breakdown
+![Results Page](./screenshots/Screenshot%202026-04-14%20164243.png)
 
 ---
 

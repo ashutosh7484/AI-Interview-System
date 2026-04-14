@@ -19,12 +19,8 @@ const app = express();
 
 // ─── Middleware ───────────────────────────────────────────
 app.use(cors({
-  origin: [
-    'http://localhost:5173',
-    'https://ai-interview-system-coral.vercel.app',
-    'https://ai-interview-system-qgirovy8u-ansukr321-5763s-projects.vercel.app'
-  ],
-  credentials: true,
+  origin: true,
+  credentials: true
 }));
 
 // ─── Routes ───────────────────────────────────────────────

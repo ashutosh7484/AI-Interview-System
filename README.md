@@ -42,7 +42,7 @@
 
 ## 🎬 Live Demo
 
-> 🔗 **[Try it live →](#)** *(Coming soon)*
+> 🔗 **[Try it live →](#)** (https://ai-interview-system-coral.vercel.app)
 
 ---
 
